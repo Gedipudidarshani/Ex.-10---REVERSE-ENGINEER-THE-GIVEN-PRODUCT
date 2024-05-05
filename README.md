@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 29.4.24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,13 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7)
+![image](https://github.com/Priyangarajapandiyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144872535/2ebff4c7-8f30-46e2-9685-f5bdabbcf14e)
 
 ### Output:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3)
+![image](https://github.com/Priyangarajapandiyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144872535/149dbd29-43bf-4df3-8864-fa9fe3c3d8cd)
 
 
-### Name:GEDIPUDI DARSHANI
+### Name: Gedipudi Darshani
 ### Register Number:212223230062
 
 ## RESULT:
